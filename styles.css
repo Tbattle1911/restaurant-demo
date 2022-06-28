@@ -1,0 +1,37 @@
+
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#home-link {
+    border-bottom: 3px solid #dc143c;
+}
+
+
+
+.data {
+    line-height: 1.75;
+}
+
+.card:hover {
+    box-shadow: 6px 9px 24px -1px rgba(0,0,0,0.86);
+    -webkit-box-shadow: 6px 9px 24px -1px rgba(0,0,0,0.86);
+    -moz-box-shadow: 6px 9px 24px -1px rgba(0,0,0,0.86);
+}
+
+
+
+
+.img-two {
+    border-radius: 50%;
+}
+
+.footer-p {
+    font-size: 15px;
+}
+
+.footer-p:hover{
+    transform: translate(1.5px);
+}
+
+
